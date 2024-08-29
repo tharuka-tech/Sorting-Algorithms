@@ -10,4 +10,5 @@
     <li>Selection Sort</li>
     <li>Quick Sort</li>
     <li>Merge Sort</li>
+    <li>Hanoi Puzzle</li>
 </ul>
